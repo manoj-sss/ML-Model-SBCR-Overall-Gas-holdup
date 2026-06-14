@@ -14,7 +14,7 @@ Each model folder contains the following components:
 
 ### Large File Availability
 
-Please note that the **EXT** and **AdaBoost** files exceed 25 MB in size. Due to these size constraints, these files are not included in this repository but are available upon request.
+Please note that the **EXT** and **RFT** files exceed 25 MB in size. Due to these size constraints, these files are not included in this repository but are available upon request.
 
 ### Instructions for Running the Code
 
